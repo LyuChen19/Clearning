@@ -1,0 +1,3 @@
+D:/code/c-language-learning/test_09_27/cmake-build-debug/CMakeFiles/test_09_27.dir
+D:/code/c-language-learning/test_09_27/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/c-language-learning/test_09_27/cmake-build-debug/CMakeFiles/rebuild_cache.dir
