@@ -1,0 +1,3 @@
+D:/clion/2024_07_24/cmake-build-debug/CMakeFiles/231051030216.dir
+D:/clion/2024_07_24/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/2024_07_24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
